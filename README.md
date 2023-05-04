@@ -5,11 +5,13 @@ Projeto é uma pagina web que é possovel realizar conversões de hexadecimal, d
 ##
 
 # Funcionalidades
-> Converter de Binário para Decimal e Hexadecimal
+> Converter de Binário para Decimal, Hexadecimal e Octal
 
-> Converter de Decimal para Binário e Hexadecimal
+> Converter de Decimal para Binário, Hexadecimal e Octal
 
-> Converter de Hexadecimal para Binário e Decimal
+> Converter de Hexadecimal para Binário, Decimal e Octal
+
+> Converter de Octal para Binário, Decimal e Hexadecimal
 
 
 ##
