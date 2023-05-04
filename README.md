@@ -24,4 +24,4 @@ Projeto é uma pagina web que é possovel realizar conversões de hexadecimal, d
 > JavaScript
 ##
 
-Segue o o link para acessar a página web: https://andredevsec.github.io/conversor-hex-dec-bin/
+Segue o o link para acessar a página web: https://andredevsec.github.io/conversor-bin-dec-hex-oct/
