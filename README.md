@@ -1,6 +1,6 @@
-# Conversões entre Hexadecimal, Decimal e binário.
+# Conversões entre Binário, Decimal, Hexadecimal e Octal.
 
-Projeto é uma pagina web que é possovel realizar conversões de hexadecimal, decimal e binário.
+Projeto é uma pagina web que é possovel realizar conversões entre Binário, Decimal, Hexadecimal e Octal.
 
 ##
 
